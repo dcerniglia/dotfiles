@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<workflow>
+  <name>Open with Visual Studio Code (supports Insiders)</name>
+  <version>1.0</version>
+  <bundle>com.gerrymi.openvscode</bundle>
+  <updated>1594262713</updated>
+  <file>open_with_visual_studio_code.alfredworkflow</file>
+</workflow>

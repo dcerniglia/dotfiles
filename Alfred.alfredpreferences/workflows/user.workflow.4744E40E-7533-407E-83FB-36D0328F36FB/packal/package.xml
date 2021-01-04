@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<workflow>
+  <name>Search Omnifocus</name>
+  <version>2.1.2</version>
+  <bundle>net.rhydlewis.alfred.searchomnifocus</bundle>
+  <updated>1598430078</updated>
+  <file>search.omnifocus.v2.1.2.alfredworkflow</file>
+</workflow>

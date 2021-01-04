@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<workflow>
+  <name>Dotfiles</name>
+  <version>1.2</version>
+  <bundle>dotfiles.alfredworkflow.lokecarlsson</bundle>
+  <updated>1602069885</updated>
+  <file>dotfiles.alfredworkflow</file>
+</workflow>

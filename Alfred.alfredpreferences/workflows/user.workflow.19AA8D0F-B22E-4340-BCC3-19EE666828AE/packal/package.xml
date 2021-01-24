@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<workflow>
+  <name>Notification Dismisser</name>
+  <version>1.0.0</version>
+  <bundle>com.jkscx.alfred.notification_dismisser</bundle>
+  <updated>1594655639</updated>
+  <file>alfred-notification-dismisser.alfredworkflow</file>
+</workflow>

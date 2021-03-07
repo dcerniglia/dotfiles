@@ -27,7 +27,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Sample</string>
+	<string>iTerm HK</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -37,10 +37,16 @@
 				<integer>0</integer>
 				<key>argument</key>
 				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
 				<key>hotkey</key>
-				<integer>0</integer>
+				<integer>34</integer>
 				<key>hotmod</key>
-				<integer>0</integer>
+				<integer>1966080</integer>
+				<key>hotstring</key>
+				<string>I</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -53,13 +59,15 @@
 			<key>uid</key>
 			<string>D0D170CF-42DF-4377-8032-B69D1C04AE97</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
 				<key>paths</key>
-				<array/>
+				<array>
+					<string>/System/Volumes/Data/Applications/iTerm.app</string>
+				</array>
 				<key>toggle</key>
 				<false/>
 			</dict>
@@ -68,7 +76,7 @@
 			<key>uid</key>
 			<string>F51AFF16-38A4-4E7D-ABC7-7F31B762FE32</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</array>
 	<key>readme</key>

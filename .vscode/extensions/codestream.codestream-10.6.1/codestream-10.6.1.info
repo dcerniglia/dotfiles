@@ -1,0 +1,19 @@
+{
+    "assetEnvironment": "prod",
+    "assetsMD5": {
+        "codestream-10.6.1+4106.vsix": ""
+    },
+    "buildBranch": "master",
+    "buildDisplayString": "10.6.1+4106",
+    "buildNumber": "4106",
+    "fullName": "codestream-10.6.1+4106",
+    "name": "codestream",
+    "prefix": "",
+    "primaryRepo": "codestream",
+    "repoCommitId": {
+        "codestream": "2d2772c2516899e29f6d6ae8bd0181ef9c522c03"
+    },
+    "sandboxType": "vscode2_sb",
+    "suffix": null,
+    "version": "10.6.1"
+}

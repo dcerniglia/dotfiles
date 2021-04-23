@@ -2,13 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>ejectKeywordEnabled</key>
+	<key>chromeProfile</key>
+	<string>Profile 1</string>
+	<key>indexChrome</key>
 	<true/>
-	<key>sleepKeyword</key>
-	<string>ss</string>
-	<key>sleepdisplaysKeyword</key>
-	<string>sd</string>
-	<key>volumemuteKeyword</key>
-	<string> mu</string>
 </dict>
 </plist>

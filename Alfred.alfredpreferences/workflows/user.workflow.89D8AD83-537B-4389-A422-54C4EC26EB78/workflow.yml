@@ -1,0 +1,31 @@
+bundleid: net.turbare.switch-audio
+category: Tools
+connections:
+  filter:
+  - destinationuid: switch
+  switch: []
+createdby: Akihiro Uchida
+description: switch audio input/output device
+disabled: false
+name: alfred-switch-audio
+objects:
+- config:
+    argumenttype: 1
+    escaping: 0
+    keyword: audio
+    script: !include './filter'
+    title: Switch audio device
+  type: alfred.workflow.input.scriptfilter
+  uid: filter
+- config:
+    escaping: 0
+    script: !include './switch'
+  type: alfred.workflow.action.script
+  uid: switch
+readme: !include 'README'
+uidata:
+  filter:
+    ypos: 50.0
+  switch:
+    ypos: 50.0
+webaddress: github.com/uchida/alfred-switch-audio
